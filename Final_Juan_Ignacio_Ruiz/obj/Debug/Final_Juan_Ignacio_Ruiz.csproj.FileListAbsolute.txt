@@ -5,3 +5,10 @@ C:\Users\Juan Ignacio\Desktop\Instituto\Estructura de Datos\sharp\Final_Juan_Ign
 C:\Users\Juan Ignacio\Desktop\Instituto\Estructura de Datos\sharp\Final_Juan_Ignacio_Ruiz\Final_Juan_Ignacio_Ruiz\obj\Debug\Final_Juan_Ignacio_Ruiz.csproj.CoreCompileInputs.cache
 C:\Users\Juan Ignacio\Desktop\Instituto\Estructura de Datos\sharp\Final_Juan_Ignacio_Ruiz\Final_Juan_Ignacio_Ruiz\obj\Debug\Final_Juan_Ignacio_Ruiz.exe
 C:\Users\Juan Ignacio\Desktop\Instituto\Estructura de Datos\sharp\Final_Juan_Ignacio_Ruiz\Final_Juan_Ignacio_Ruiz\obj\Debug\Final_Juan_Ignacio_Ruiz.pdb
+C:\Users\Juan Ignacio\Desktop\Instituto\EstructuraDatos\sharp\Final_Juan_Ignacio_Ruiz\Final_Juan_Ignacio_Ruiz\bin\Debug\Final_Juan_Ignacio_Ruiz.exe.config
+C:\Users\Juan Ignacio\Desktop\Instituto\EstructuraDatos\sharp\Final_Juan_Ignacio_Ruiz\Final_Juan_Ignacio_Ruiz\bin\Debug\Final_Juan_Ignacio_Ruiz.exe
+C:\Users\Juan Ignacio\Desktop\Instituto\EstructuraDatos\sharp\Final_Juan_Ignacio_Ruiz\Final_Juan_Ignacio_Ruiz\bin\Debug\Final_Juan_Ignacio_Ruiz.pdb
+C:\Users\Juan Ignacio\Desktop\Instituto\EstructuraDatos\sharp\Final_Juan_Ignacio_Ruiz\Final_Juan_Ignacio_Ruiz\obj\Debug\Final_Juan_Ignacio_Ruiz.csprojAssemblyReference.cache
+C:\Users\Juan Ignacio\Desktop\Instituto\EstructuraDatos\sharp\Final_Juan_Ignacio_Ruiz\Final_Juan_Ignacio_Ruiz\obj\Debug\Final_Juan_Ignacio_Ruiz.csproj.CoreCompileInputs.cache
+C:\Users\Juan Ignacio\Desktop\Instituto\EstructuraDatos\sharp\Final_Juan_Ignacio_Ruiz\Final_Juan_Ignacio_Ruiz\obj\Debug\Final_Juan_Ignacio_Ruiz.exe
+C:\Users\Juan Ignacio\Desktop\Instituto\EstructuraDatos\sharp\Final_Juan_Ignacio_Ruiz\Final_Juan_Ignacio_Ruiz\obj\Debug\Final_Juan_Ignacio_Ruiz.pdb

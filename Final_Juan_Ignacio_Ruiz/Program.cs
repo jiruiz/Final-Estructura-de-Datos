@@ -302,46 +302,13 @@ namespace Final_Juan_Ignacio_Ruiz
 
         }
 
-        
+
 
 
         public static void BorrarPatente(Stack patente)
         {
-            Object[] nuevoArrayPatentes = patente.ToArray();
-            Console.WriteLine("ingrese patente a borrar:  ");
-            string patenteABorrar = Convert.ToString(Console.ReadLine());
-            if (patente != null)
-            {
-                if (patente.Contains(patenteABorrar.ToUpper()))
-                {
-                    for (int i = 0; i < nuevoArrayPatentes.Length; i++)
-                    {
-                        if (nuevoArrayPatentes[i].ToString() == patenteABorrar.ToString().ToUpper())
-                        {
-                            nuevoArrayPatentes[i] = null;
-                            Console.WriteLine("elemento borrado");
-                            Array.Reverse(nuevoArrayPatentes);
-                            patente.Clear();
-
-                            foreach (string item in nuevoArrayPatentes)
-                            {
-                                if (item != null)
-                                {
-                                    
-                                    patente.Push(item);
-                                }
-
-                            }
-                        }
-
-                    }
-                }
-                else
-                {
-                    Console.WriteLine("no esta registrada la patente que intenta borrar");
-                }
-            }
-
+            Console.WriteLine("se borró {0} de la pila", patente.Peek());
+            patente.Pop();
         }
 
         public static void BusquedaPatente(Stack patente)
